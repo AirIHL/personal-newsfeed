@@ -32,7 +32,7 @@ public class Comment extends BaseEntity {
     private String content;
 
     @Column(nullable = false, columnDefinition = "INTEGER DEFAULT 0")
-    private Integer recommendCount;
+    private Integer recommendCount = 0;
 
     @Enumerated(EnumType.STRING)
     private CommentStatus status;

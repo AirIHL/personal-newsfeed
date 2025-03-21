@@ -30,7 +30,7 @@ public class Article extends BaseEntity {
     private String contents;
 
     @Column(nullable = false, columnDefinition = "INTEGER DEFAULT 0")
-    private Integer recommendCount;
+    private Integer recommendCount = 0;
 
     @Enumerated(EnumType.STRING)
     private ArticleStatus status;
