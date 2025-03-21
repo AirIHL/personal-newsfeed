@@ -59,7 +59,7 @@
 ## API 명세서
 
 ![API 명세서](https://github.com/AirIHL/personal-newsfeed/blob/main/API%20%EB%AA%85%EC%84%B8%EC%84%9C.png)
-
+<br />
 
 
 
@@ -67,7 +67,7 @@
 ## ERD
 
 ![ERD](https://github.com/AirIHL/personal-newsfeed/blob/main/ERD.png)
-
+<br />
 
 
 
@@ -75,37 +75,138 @@
 ## API 동작
 
 
-
 ### 회원가입
 
 ![회원가입 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%20API.png)
-
+<br />
 
 
 ### 로그인
 
 ![로그인 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20API.png)
-
+<br />
 
 
 ### 본인 프로필 조회
 
 ![본인 프로필 조회 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%EB%B3%B8%EC%9D%B8%20%ED%94%84%EB%A1%9C%ED%95%84%20%EC%A1%B0%ED%9A%8C%20API.png)
-
+<br />
 
 
 ### 타인 프로필 조회
 
 ![타인 프로필 조회 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%ED%83%80%EC%9D%B8%20%ED%94%84%EB%A1%9C%ED%95%84%20%EC%A1%B0%ED%9A%8C%20API.png)
-
+<br />
 
 
 ### 프로필 업데이트
 ![프로필 업데이트 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%ED%94%84%EB%A1%9C%ED%95%84%20%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%20%20API.png)
-
+<br />
 
 
 ### 비밀번호 업데이트
 
 ![비밀번호 업데이트 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%20%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%20%20API.png)
+<br />
 
+
+### 게시글 작성
+
+![게시글 작성 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%EA%B2%8C%EC%8B%9C%EA%B8%80%20%EC%9E%91%EC%84%B1%20API.png)
+<br />
+
+
+### 게시글 다건 조회
+
+![게시글 다건 조회 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%EA%B2%8C%EC%8B%9C%EA%B8%80%20%EB%8B%A4%EA%B1%B4%20%EC%A1%B0%ED%9A%8C%20API.png)
+<br />
+
+
+### 게시글 단건 조회
+
+![게시글 단건 조회 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%EA%B2%8C%EC%8B%9C%EA%B8%80%20%EB%8B%A8%EA%B1%B4%20%EC%A1%B0%ED%9A%8C%20API.png)
+<br />
+
+
+### 게시글 수정
+
+![게시글 수정 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%EA%B2%8C%EC%8B%9C%EA%B8%80%20%EC%88%98%EC%A0%95%20API.png)
+<br />
+
+
+### 게시글 삭제
+
+![게시글 삭제 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%EA%B2%8C%EC%8B%9C%EA%B8%80%20%EC%82%AD%EC%A0%9C%20API.png)
+<br />
+
+
+### 팔로우
+
+![팔로우 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%ED%8C%94%EB%A1%9C%EC%9A%B0%20API.png)
+<br />
+
+
+### 팔로우하는 회원 정보 목록 조회
+
+![팔로우하는 회원 정보 목록 조회 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%ED%8C%94%EB%A1%9C%EC%9A%B0%ED%95%98%EB%8A%94%20%ED%9A%8C%EC%9B%90%20%EC%A0%95%EB%B3%B4%20%EB%AA%A9%EB%A1%9D%20%EC%A1%B0%ED%9A%8C%20API.png)
+<br />
+
+
+### 뉴스피드
+
+![뉴스피드 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%EB%89%B4%EC%8A%A4%ED%94%BC%EB%93%9C%20API.png)
+<br />
+
+
+### 팔로우 해제
+
+![팔로우 해제 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%ED%8C%94%EB%A1%9C%EC%9A%B0%20%ED%95%B4%EC%A0%9C%20API.png)
+<br />
+
+
+### 게시글 좋아요
+
+![게시글 좋아요 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%EA%B2%8C%EC%8B%9C%EA%B8%80%20%EC%A2%8B%EC%95%84%EC%9A%94%20API.png)
+<br />
+
+
+### 게시글 좋아요 취소
+
+![게시글 좋아요 취소 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%EA%B2%8C%EC%8B%9C%EA%B8%80%20%EC%A2%8B%EC%95%84%EC%9A%94%20%EC%B7%A8%EC%86%8C%20API.png)
+<br />
+
+
+### 댓글 작성
+
+![댓글 작성 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%EB%8C%93%EA%B8%80%20%EC%9E%91%EC%84%B1%20API.png)
+<br />
+
+
+### 댓글 수정
+
+![댓글 수정 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%EB%8C%93%EA%B8%80%20%EC%88%98%EC%A0%95%20API.png)
+<br />
+
+
+### 댓글 삭제
+
+![댓글 삭제 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%EB%8C%93%EA%B8%80%20%EC%82%AD%EC%A0%9C%20API.png)
+<br />
+
+
+### 댓글 다건 조회
+
+![댓글 다건 조회 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%EB%8C%93%EA%B8%80%20%EB%8B%A4%EA%B1%B4%20%EC%A1%B0%ED%9A%8C%20API.png)
+<br />
+
+
+### 댓글 좋아요
+
+![댓글 좋아요 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%EB%8C%93%EA%B8%80%20%EC%A2%8B%EC%95%84%EC%9A%94%20API.png)
+<br />
+
+
+### 댓글 좋아요 취소
+
+![댓글 좋아요 취소 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%EB%8C%93%EA%B8%80%20%EC%A2%8B%EC%95%84%EC%9A%94%20%EC%B7%A8%EC%86%8C%20API.png)
+<br />
