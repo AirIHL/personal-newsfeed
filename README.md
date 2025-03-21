@@ -53,34 +53,57 @@
 
 ---
 
+
+
+
 ## API 명세서
 
 ![API 명세서](https://github.com/AirIHL/personal-newsfeed/blob/main/API%20%EB%AA%85%EC%84%B8%EC%84%9C.png)
+
+
+
+
 
 ## ERD
 
 ![ERD](https://github.com/AirIHL/personal-newsfeed/blob/main/ERD.png)
 
+
+
+
+
 ## API 동작
+
+
 
 ### 회원가입
 
 ![회원가입 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%20API.png)
 
+
+
 ### 로그인
 
 ![로그인 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20API.png)
+
+
 
 ### 본인 프로필 조회
 
 ![본인 프로필 조회 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%EB%B3%B8%EC%9D%B8%20%ED%94%84%EB%A1%9C%ED%95%84%20%EC%A1%B0%ED%9A%8C%20API.png)
 
+
+
 ### 타인 프로필 조회
 
 ![타인 프로필 조회 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%ED%83%80%EC%9D%B8%20%ED%94%84%EB%A1%9C%ED%95%84%20%EC%A1%B0%ED%9A%8C%20API.png)
 
+
+
 ### 프로필 업데이트
 ![프로필 업데이트 API](https://github.com/AirIHL/personal-newsfeed/blob/main/%ED%94%84%EB%A1%9C%ED%95%84%20%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%20%20API.png)
+
+
 
 ### 비밀번호 업데이트
 
